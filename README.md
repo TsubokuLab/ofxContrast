@@ -2,7 +2,7 @@
 
 Change image contrast and brightness addon for ofImage.
 
-*This addon need ofxOpenCV*
+*This addon need ofxOpenCv*
 
 Author : Teruaki Tsubokura (<http://teruaki-tsubokura.com/>)
 
