@@ -1,5 +1,4 @@
 #ofxContrast
-===========
 
 Change image contrast and brightness addon for ofImage.
 
@@ -7,5 +6,5 @@ Change image contrast and brightness addon for ofImage.
 
 Author : Teruaki Tsubokrua (<http://teruaki-tsubokura.com/>)
 
-![Example](https://github.com/TsubokuLab/ofxContrast/blob/master/screenshot/ofxContrast.png)
+![ofxContrast](https://github.com/TsubokuLab/ofxContrast/raw/master/screenshot/ofxContrast.png)
 
