@@ -40,7 +40,7 @@ void testApp::draw(){
     ofDrawBitmapString(" -50      <------    Contrast    ------>      +50", 280, 240 * 3 - 20);
     ofPushMatrix();
     ofRotateZ(90);
-    ofDrawBitmapString(" -50      <------    Brightness    ------>      +50", 150, - 20);
+    ofDrawBitmapString(" +50      <------    Brightness    ------>      -50", 150, - 20);
     ofPopMatrix();
 }
 
